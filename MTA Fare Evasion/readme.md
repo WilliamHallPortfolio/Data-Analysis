@@ -1,3 +1,3 @@
-MTA Subway and Bus Fare Evasion
+# MTA Subway and Bus Fare Evasion <br>
 The purpose of this project is to examine NYC’s subway and bus transportation system’s total ridership and fare evasion since returning from the COVID-19 pandemic. From the visualizations showcased in the project dashboard, we can observe that overall ridership has not rebounded in comparison to the levels during pre-COVID. During those times, monthly ridership maintained close to 2 billion daily commuters per year, far overshadowing it’s 1 billion commuters as of November 2024. With the MTA desperately trying to regain it’s ridership levels to cover it’s enormous daily operating costs, fare evasion has run rampant in recent years; nearly doubling in number.
 
